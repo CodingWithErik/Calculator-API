@@ -14,6 +14,3 @@ Gevent
 
 Endpoints:
 /Calculator/
-
-
-Disclaimer: This is not a final product. 
